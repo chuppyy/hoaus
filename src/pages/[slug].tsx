@@ -212,15 +212,15 @@ export async function getStaticProps({ params }: { params: any }) {
       //GA sau video
       googleAdSlot: "2017688392",
 //Cái sau
-      mgWidgetId1: "1804971",
+      mgWidgetId1: "1836911",
       //Cái trước
-      mgWidgetId2: "1804971",
+      mgWidgetId2: "1836911",
 
-      mgWidgetFeedId: "1804970",
+      mgWidgetFeedId: "1836910",
       //scrip adkeeper
-      adsKeeperSrc: "https://jsc.adskeeper.com/site/1037794.js",
+      adsKeeperSrc: "https://jsc.adskeeper.com/site/1046124.js",
       //Analytic
-      googleTagId: "G-CPFRWM48QG",
+      googleTagId: "G-3DR2W4NTLC",
     };
 
     return {
